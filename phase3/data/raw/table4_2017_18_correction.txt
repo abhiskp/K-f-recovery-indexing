@@ -1,0 +1,4 @@
+# DES Agricultural Statistics 2017-18, Table 4, printed p.143, PDF p.150.
+# District Autumn Winter Summer PrintedTotal, tonnes of rice.
+# Contemporaneous annual report gives Idukki Winter 1808; later compendium Table 41 gives 1809.
+Idukki 298 1808 187 2293

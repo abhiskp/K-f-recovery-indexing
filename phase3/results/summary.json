@@ -1,0 +1,172 @@
+{
+  "rows": 252,
+  "districts": 14,
+  "years": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20"
+  ],
+  "qa_findings": 33,
+  "annual_report_2018_crosscheck_rows": 45,
+  "annual_report_2019_crosscheck_rows": 60,
+  "verified_2019_annual_row_and_state_checks": 38,
+  "annual_2018_decimal_district_minus_state": {
+    "Autumn_area": "-0.02",
+    "Autumn_production": "0.000",
+    "Winter_area": "0.00",
+    "Winter_production": "0.000",
+    "Summer_area": "0.00",
+    "Summer_production": "0.000"
+  },
+  "phase2_annual_comparison_rows": 84,
+  "state_post_event": [
+    {
+      "year": "2018-19",
+      "season": "Autumn",
+      "metric": "area",
+      "observed": 60718,
+      "baseline_mean_2014_2017": 59819.5,
+      "pct_vs_baseline": 1.502
+    },
+    {
+      "year": "2018-19",
+      "season": "Autumn",
+      "metric": "production",
+      "observed": 101943,
+      "baseline_mean_2014_2017": 159616.25,
+      "pct_vs_baseline": -36.1324
+    },
+    {
+      "year": "2018-19",
+      "season": "Autumn",
+      "metric": "yield",
+      "observed": 1.678958,
+      "baseline_mean_2014_2017": 2.673934,
+      "pct_vs_baseline": -37.2102
+    },
+    {
+      "year": "2018-19",
+      "season": "Winter",
+      "metric": "area",
+      "observed": 88450,
+      "baseline_mean_2014_2017": 82869,
+      "pct_vs_baseline": 6.7347
+    },
+    {
+      "year": "2018-19",
+      "season": "Winter",
+      "metric": "production",
+      "observed": 279529,
+      "baseline_mean_2014_2017": 214614,
+      "pct_vs_baseline": 30.2473
+    },
+    {
+      "year": "2018-19",
+      "season": "Winter",
+      "metric": "yield",
+      "observed": 3.160305,
+      "baseline_mean_2014_2017": 2.562409,
+      "pct_vs_baseline": 23.3334
+    },
+    {
+      "year": "2018-19",
+      "season": "Summer",
+      "metric": "area",
+      "observed": 48858,
+      "baseline_mean_2014_2017": 46189.75,
+      "pct_vs_baseline": 5.7767
+    },
+    {
+      "year": "2018-19",
+      "season": "Summer",
+      "metric": "production",
+      "observed": 196784,
+      "baseline_mean_2014_2017": 143059.75,
+      "pct_vs_baseline": 37.5537
+    },
+    {
+      "year": "2018-19",
+      "season": "Summer",
+      "metric": "yield",
+      "observed": 4.027672,
+      "baseline_mean_2014_2017": 3.096591,
+      "pct_vs_baseline": 30.0679
+    },
+    {
+      "year": "2019-20",
+      "season": "Autumn",
+      "metric": "area",
+      "observed": 54694,
+      "baseline_mean_2014_2017": 59819.5,
+      "pct_vs_baseline": -8.5683
+    },
+    {
+      "year": "2019-20",
+      "season": "Autumn",
+      "metric": "production",
+      "observed": 142946,
+      "baseline_mean_2014_2017": 159616.25,
+      "pct_vs_baseline": -10.444
+    },
+    {
+      "year": "2019-20",
+      "season": "Autumn",
+      "metric": "yield",
+      "observed": 2.613559,
+      "baseline_mean_2014_2017": 2.673934,
+      "pct_vs_baseline": -2.2579
+    },
+    {
+      "year": "2019-20",
+      "season": "Winter",
+      "metric": "area",
+      "observed": 80049,
+      "baseline_mean_2014_2017": 82869,
+      "pct_vs_baseline": -3.403
+    },
+    {
+      "year": "2019-20",
+      "season": "Winter",
+      "metric": "production",
+      "observed": 244794,
+      "baseline_mean_2014_2017": 214614,
+      "pct_vs_baseline": 14.0625
+    },
+    {
+      "year": "2019-20",
+      "season": "Winter",
+      "metric": "yield",
+      "observed": 3.058052,
+      "baseline_mean_2014_2017": 2.562409,
+      "pct_vs_baseline": 19.3429
+    },
+    {
+      "year": "2019-20",
+      "season": "Summer",
+      "metric": "area",
+      "observed": 56308,
+      "baseline_mean_2014_2017": 46189.75,
+      "pct_vs_baseline": 21.9058
+    },
+    {
+      "year": "2019-20",
+      "season": "Summer",
+      "metric": "production",
+      "observed": 199338,
+      "baseline_mean_2014_2017": 143059.75,
+      "pct_vs_baseline": 39.339
+    },
+    {
+      "year": "2019-20",
+      "season": "Summer",
+      "metric": "yield",
+      "observed": 3.540136,
+      "baseline_mean_2014_2017": 3.096591,
+      "pct_vs_baseline": 14.3237
+    }
+  ],
+  "data_status": "observed administrative rice statistics; no flood attribution"
+}

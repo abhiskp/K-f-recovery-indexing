@@ -1,0 +1,18 @@
+# DES Agricultural Statistics 2019-20, Table 3 printed p.38/PDF p.51, Table 4 printed p.142/PDF p.155.
+# Fields: district area_autumn area_winter area_summer area_printed_total production_autumn production_winter production_summer production_printed_total.
+# Units: hectares and tonnes. These contemporaneous annual-report cells are preferred for 2019-20.
+Thiruvananthapuram 888 779 143 1810 2249 1945 346 4540
+Kollam 391 1370 336 2097 784 2748 651 4183
+Pathanamthitta 54 513 2935 3502 45 1286 10052 11383
+Alappuzha 9580 3570 22504 35654 19304 10742 82546 112592
+Kottayam 1851 5131 10643 17625 3457 14475 32119 50051
+Idukki 53 524 26 603 101 1304 62 1467
+Eranakulam 984 2766 894 4644 1566 6862 2432 10860
+Thrissur 1833 9203 11597 22633 3200 26553 46803 76556
+Palakkad 34523 38999 3261 76783 102140 135229 10830 248199
+Malappuram 243 5679 2703 8625 445 16972 10797 28214
+Kozhicode 26 1445 657 2128 28 1724 1115 2867
+Wayanad 0 6901 425 7326 0 18357 1156 19513
+Kannur 2985 2361 6 5352 6779 5014 11 11804
+Kasaragode 1283 808 178 2269 2848 1583 418 4849
+State 54694 80049 56308 191051 142946 244794 199338 587078

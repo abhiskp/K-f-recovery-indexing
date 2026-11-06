@@ -1,0 +1,34 @@
+check,metric,year,district,season,calculated,reported,difference,source
+printed_annual_vs_seasons,area,2019-20,Alappuzha,All,35654,35653,1,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Ernakulam,All,4644,4653,-9,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Thrissur,All,22633,22629,4,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Palakkad,All,76783,76938,-155,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Malappuram,All,8625,9672,-1047,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Kozhikode,All,2128,921,1207,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Kannur,All,5771,5746,25,626.pdf printed p.56
+printed_annual_vs_seasons,area,2019-20,Kasaragod,All,2269,2264,5,626.pdf printed p.56
+district_sum_vs_state_season,area,2019-20,State,Winter,80079,80049,30,626.pdf printed p.56
+printed_district_totals_vs_state_total,area,2019-20,State,All,191050,191051,-1,626.pdf printed p.56
+printed_annual_vs_seasons,production,2017-18,Idukki,All,2294,2293,1,626.pdf printed p.88
+district_sum_vs_state_season,production,2017-18,State,Winter,218935,218934,1,626.pdf printed p.88
+compendium_vs_2017_annual_report,production,2017-18,Idukki,Winter,1809,1808,1,626.pdf p.88; 247.pdf p.143
+compendium_vs_2018_annual_report,production,2018-19,Alappuzha,Winter,40184,40183.376,0.624,626.pdf pp.56/88; 239.pdf pp.183
+compendium_vs_2018_annual_report,area,2018-19,Idukki,Autumn,91,90.48,0.52,626.pdf pp.56/88; 239.pdf pp.182
+compendium_vs_2018_annual_report,area,2018-19,Malappuram,Summer,2475,2475.59,-0.59,626.pdf pp.56/88; 239.pdf pp.184
+compendium_vs_2018_annual_report,area,2018-19,State,Winter,88450,88449.47,0.53,626.pdf pp.56/88; 239.pdf pp.183
+compendium_vs_2019_annual_report,area,2019-20,Alappuzha,All,35653,35654,-1,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Ernakulam,All,4653,4644,9,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Thrissur,All,22629,22633,-4,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Palakkad,All,76938,76783,155,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Malappuram,All,9672,8625,1047,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Kozhikode,All,921,2128,-1207,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Wayanad,Winter,6931,6901,30,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,production,2019-20,Wayanad,Winter,18422,18357,65,626.pdf pp.56/88; 3.pdf pp.142
+compendium_vs_2019_annual_report,area,2019-20,Wayanad,Summer,6,425,-419,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Wayanad,All,6937,7326,-389,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,production,2019-20,Wayanad,All,19578,19513,65,626.pdf pp.56/88; 3.pdf pp.142
+compendium_vs_2019_annual_report,production,2019-20,Kannur,Winter,4949,5014,-65,626.pdf pp.56/88; 3.pdf pp.142
+compendium_vs_2019_annual_report,area,2019-20,Kannur,Summer,425,6,419,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,area,2019-20,Kannur,All,5746,5352,394,626.pdf pp.56/88; 3.pdf pp.38
+compendium_vs_2019_annual_report,production,2019-20,Kannur,All,11739,11804,-65,626.pdf pp.56/88; 3.pdf pp.142
+compendium_vs_2019_annual_report,area,2019-20,Kasaragod,All,2264,2269,-5,626.pdf pp.56/88; 3.pdf pp.38
