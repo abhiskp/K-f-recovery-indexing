@@ -1,0 +1,86 @@
+{
+  "definition": "Illustrative, NOT validated, equal-weight crop production shortfalls relative to one pre-flood year",
+  "grid_n": 84,
+  "alpha_25_minmax_3_crops_3_years": {
+    "normalization": "minmax",
+    "years": 3,
+    "crops": "rice-banana-plantain",
+    "alpha": 0.25,
+    "spearman_risk_vs_blend": 0.8549450549450549,
+    "top5_overlap": 3,
+    "mean_abs_rank_shift": 1.4285714285714286,
+    "top5": "Malappuram;Palakkad;Alappuzha;Kozhikode;Idukki"
+  },
+  "alpha_25_rank_3_crops_3_years": {
+    "normalization": "rank",
+    "years": 3,
+    "crops": "rice-banana-plantain",
+    "alpha": 0.25,
+    "spearman_risk_vs_blend": 0.9724978382040325,
+    "top5_overlap": 5,
+    "mean_abs_rank_shift": 0.6428571428571429,
+    "top5": "Malappuram;Palakkad;Wayanad;Thrissur;Kozhikode"
+  },
+  "alpha_25_count_top5_overlap": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 4,
+    "4": 17,
+    "5": 7
+  },
+  "year2020_pseudo_holdout": {
+    "0.1": {
+      "observed_top5_capture": 0.3694276459783845,
+      "risk_only_top5_capture": 0.3694276459783845,
+      "null_mean_top5_capture": 0.3768694490779821,
+      "null_p_greater_equal": 0.9156,
+      "null_95pct_range": [
+        0.29213703228470533,
+        0.4960202873317092
+      ],
+      "observed_top5": [
+        "Malappuram",
+        "Palakkad",
+        "Wayanad",
+        "Thrissur",
+        "Kozhikode"
+      ]
+    },
+    "0.25": {
+      "observed_top5_capture": 0.593693368754716,
+      "risk_only_top5_capture": 0.3694276459783845,
+      "null_mean_top5_capture": 0.4139121871068998,
+      "null_p_greater_equal": 0.0772,
+      "null_95pct_range": [
+        0.2487654097166701,
+        0.6311345862311409
+      ],
+      "observed_top5": [
+        "Malappuram",
+        "Palakkad",
+        "Alappuzha",
+        "Idukki",
+        "Thrissur"
+      ]
+    },
+    "0.5": {
+      "observed_top5_capture": 0.6484911740908542,
+      "risk_only_top5_capture": 0.3694276459783845,
+      "null_mean_top5_capture": 0.4049287079999875,
+      "null_p_greater_equal": 0.022,
+      "null_95pct_range": [
+        0.2065780236552535,
+        0.642560768999244
+      ],
+      "observed_top5": [
+        "Palakkad",
+        "Malappuram",
+        "Alappuzha",
+        "Idukki",
+        "Ernakulam"
+      ]
+    }
+  },
+  "interpretation": "Permutation tests are descriptive negative controls and do not address confounding, geographic dependence, or published-baseline time leakage."
+}
