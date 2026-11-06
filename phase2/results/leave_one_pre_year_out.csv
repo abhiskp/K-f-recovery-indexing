@@ -1,0 +1,5 @@
+omitted_pre_year,top5,top5_overlap,spearman_vs_published
+2014-15,Malappuram;Palakkad;Alappuzha;Kozhikode;Idukki,3,0.828571
+2015-16,Malappuram;Palakkad;Alappuzha;Wayanad;Idukki,3,0.872527
+2016-17,Malappuram;Palakkad;Wayanad;Alappuzha;Idukki,3,0.894505
+2017-18,Malappuram;Palakkad;Wayanad;Alappuzha;Kozhikode,4,0.876923

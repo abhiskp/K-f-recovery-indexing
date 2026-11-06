@@ -1,0 +1,7 @@
+normalization,output_baseline,alpha,spearman_vs_published,kendall_vs_published,top5_overlap,mean_abs_rank_shift,top5
+minmax,2017_only,0.25,0.854945,0.714286,3,1.429,Malappuram;Palakkad;Alappuzha;Kozhikode;Idukki
+minmax,four_year_mean,0.25,0.868132,0.714286,3,1.429,Malappuram;Palakkad;Alappuzha;Wayanad;Idukki
+minmax,four_year_median,0.25,0.894505,0.736264,3,1.286,Malappuram;Palakkad;Wayanad;Alappuzha;Idukki
+rank,2017_only,0.25,0.972498,0.883991,5,0.643,Malappuram;Palakkad;Wayanad;Thrissur;Kozhikode
+rank,four_year_mean,0.25,0.963697,0.861892,4,0.786,Malappuram;Palakkad;Wayanad;Thrissur;Idukki
+rank,four_year_median,0.25,0.962557,0.877832,5,0.786,Malappuram;Palakkad;Wayanad;Thrissur;Kozhikode

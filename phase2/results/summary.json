@@ -1,0 +1,267 @@
+{
+  "input_rows": 168,
+  "new_pre_flood_rows": 126,
+  "pre_years": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18"
+  ],
+  "post_years": [
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "totals_tonnes": {
+    "2014-15": {
+      "rice": 562092.0,
+      "banana": 545431.0,
+      "plantain": 468320.0
+    },
+    "2015-16": {
+      "rice": 549275.0,
+      "banana": 536155.0,
+      "plantain": 411626.0
+    },
+    "2016-17": {
+      "rice": 436483.0,
+      "banana": 489322.0,
+      "plantain": 395806.0
+    },
+    "2017-18": {
+      "rice": 521310.0,
+      "banana": 565829.0,
+      "plantain": 379683.0
+    },
+    "2018-19": {
+      "rice": 578256.0,
+      "banana": 429059.672,
+      "plantain": 383102.0490000001
+    },
+    "2019-20": {
+      "rice": 587078.0,
+      "banana": 548425.301,
+      "plantain": 406902.0
+    },
+    "2020-21": {
+      "rice": 626886.087,
+      "banana": 544188.717,
+      "plantain": 412864.399
+    }
+  },
+  "area_yield_2018_19": [
+    {
+      "crop": "rice",
+      "area_2017_18_ha": 189086,
+      "area_2018_19_ha": 198026,
+      "production_2017_18_tonnes": 521310.0,
+      "production_2018_19_tonnes": 578256.0,
+      "area_pct_change": 4.72800736172958,
+      "yield_2017_18_t_per_ha": 2.7569994605629184,
+      "yield_2018_19_t_per_ha": 2.9201014008261543,
+      "yield_pct_change": 5.915922095608028,
+      "production_pct_change": 10.923634689532147,
+      "source_pdf_url": "https://ecostat.kerala.gov.in/storage/publications/239.pdf",
+      "source_printed_page": 126
+    },
+    {
+      "crop": "banana",
+      "area_2017_18_ha": 62108,
+      "area_2018_19_ha": 52869,
+      "production_2017_18_tonnes": 565829.0,
+      "production_2018_19_tonnes": 429059.672,
+      "area_pct_change": -14.875700392864044,
+      "yield_2017_18_t_per_ha": 9.110404456752754,
+      "yield_2018_19_t_per_ha": 8.115524636365356,
+      "yield_pct_change": -10.92025963402733,
+      "production_pct_change": -24.17149492161059,
+      "source_pdf_url": "https://ecostat.kerala.gov.in/storage/publications/239.pdf",
+      "source_printed_page": 126
+    },
+    {
+      "crop": "plantain",
+      "area_2017_18_ha": 54455,
+      "area_2018_19_ha": 56211,
+      "production_2017_18_tonnes": 379683.0,
+      "production_2018_19_tonnes": 383102.0490000001,
+      "area_pct_change": 3.2246809292076017,
+      "yield_2017_18_t_per_ha": 6.972417592507575,
+      "yield_2018_19_t_per_ha": 6.815428457063566,
+      "yield_pct_change": -2.2515739104999377,
+      "production_pct_change": 0.9005009442087486,
+      "source_pdf_url": "https://ecostat.kerala.gov.in/storage/publications/239.pdf",
+      "source_printed_page": 126
+    }
+  ],
+  "legacy_reproduction": {
+    "2017-18": {
+      "rice": {
+        "recomputed": 521310.0,
+        "archived": 521310,
+        "abs_difference": 0.0
+      },
+      "banana": {
+        "recomputed": 565829.0,
+        "archived": 565829,
+        "abs_difference": 0.0
+      },
+      "plantain": {
+        "recomputed": 379683.0,
+        "archived": 379683,
+        "abs_difference": 0.0
+      }
+    },
+    "2018-19": {
+      "rice": {
+        "recomputed": 578256.0,
+        "archived": 578256,
+        "abs_difference": 0.0
+      },
+      "banana": {
+        "recomputed": 429059.672,
+        "archived": 429059.672,
+        "abs_difference": 0.0
+      },
+      "plantain": {
+        "recomputed": 383102.0490000001,
+        "archived": 383102.049,
+        "abs_difference": 1.1641532182693481e-10
+      }
+    },
+    "2019-20": {
+      "rice": {
+        "recomputed": 587078.0,
+        "archived": 587078,
+        "abs_difference": 0.0
+      },
+      "banana": {
+        "recomputed": 548425.301,
+        "archived": 548425.301,
+        "abs_difference": 0.0
+      },
+      "plantain": {
+        "recomputed": 406902.0,
+        "archived": 406902,
+        "abs_difference": 0.0
+      }
+    },
+    "2020-21": {
+      "rice": {
+        "recomputed": 626886.087,
+        "archived": 626886.087,
+        "abs_difference": 0.0
+      },
+      "banana": {
+        "recomputed": 544188.717,
+        "archived": 544188.717,
+        "abs_difference": 0.0
+      },
+      "plantain": {
+        "recomputed": 412864.399,
+        "archived": 412864.399,
+        "abs_difference": 0.0
+      }
+    }
+  },
+  "published_formula_audit": {
+    "max_abs_difference": 0.000500000000000056,
+    "reverse_capacity_spearman": 0.3758241758241758,
+    "reverse_capacity_top5_overlap": 3
+  },
+  "legacy_alpha25_rank_top5_reproduced": [
+    "Malappuram",
+    "Palakkad",
+    "Wayanad",
+    "Thrissur",
+    "Kozhikode"
+  ],
+  "baseline_comparison": [
+    {
+      "normalization": "minmax",
+      "output_baseline": "2017_only",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.854945,
+      "kendall_vs_published": 0.714286,
+      "top5_overlap": 3,
+      "mean_abs_rank_shift": 1.429,
+      "top5": "Malappuram;Palakkad;Alappuzha;Kozhikode;Idukki"
+    },
+    {
+      "normalization": "minmax",
+      "output_baseline": "four_year_mean",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.868132,
+      "kendall_vs_published": 0.714286,
+      "top5_overlap": 3,
+      "mean_abs_rank_shift": 1.429,
+      "top5": "Malappuram;Palakkad;Alappuzha;Wayanad;Idukki"
+    },
+    {
+      "normalization": "minmax",
+      "output_baseline": "four_year_median",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.894505,
+      "kendall_vs_published": 0.736264,
+      "top5_overlap": 3,
+      "mean_abs_rank_shift": 1.286,
+      "top5": "Malappuram;Palakkad;Wayanad;Alappuzha;Idukki"
+    },
+    {
+      "normalization": "rank",
+      "output_baseline": "2017_only",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.972498,
+      "kendall_vs_published": 0.883991,
+      "top5_overlap": 5,
+      "mean_abs_rank_shift": 0.643,
+      "top5": "Malappuram;Palakkad;Wayanad;Thrissur;Kozhikode"
+    },
+    {
+      "normalization": "rank",
+      "output_baseline": "four_year_mean",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.963697,
+      "kendall_vs_published": 0.861892,
+      "top5_overlap": 4,
+      "mean_abs_rank_shift": 0.786,
+      "top5": "Malappuram;Palakkad;Wayanad;Thrissur;Idukki"
+    },
+    {
+      "normalization": "rank",
+      "output_baseline": "four_year_median",
+      "alpha": 0.25,
+      "spearman_vs_published": 0.962557,
+      "kendall_vs_published": 0.877832,
+      "top5_overlap": 5,
+      "mean_abs_rank_shift": 0.786,
+      "top5": "Malappuram;Palakkad;Wayanad;Thrissur;Kozhikode"
+    }
+  ],
+  "leave_one_pre_year_out": [
+    {
+      "omitted_pre_year": "2014-15",
+      "top5": "Malappuram;Palakkad;Alappuzha;Kozhikode;Idukki",
+      "top5_overlap": 3,
+      "spearman_vs_published": 0.828571
+    },
+    {
+      "omitted_pre_year": "2015-16",
+      "top5": "Malappuram;Palakkad;Alappuzha;Wayanad;Idukki",
+      "top5_overlap": 3,
+      "spearman_vs_published": 0.872527
+    },
+    {
+      "omitted_pre_year": "2016-17",
+      "top5": "Malappuram;Palakkad;Wayanad;Alappuzha;Idukki",
+      "top5_overlap": 3,
+      "spearman_vs_published": 0.894505
+    },
+    {
+      "omitted_pre_year": "2017-18",
+      "top5": "Malappuram;Palakkad;Wayanad;Alappuzha;Kozhikode",
+      "top5_overlap": 4,
+      "spearman_vs_published": 0.876923
+    }
+  ],
+  "interpretation": "Annual crop output deviations, not observed flood recovery, attribution, time to recovery, or predictive validation."
+}
