@@ -1,0 +1,78 @@
+{
+  "kind": "storage#objects",
+  "nextPageToken": "CiZERk9fMTU5NV9Gcm9tXzIwMDAwNDA1X3RvXzIwMDAwNDI1LnppcA==",
+  "items": [
+    {
+      "kind": "storage#object",
+      "id": "gfd_v1_4/DFO_1586_From_20000218_to_20000301.zip/1688159088941606",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gfd_v1_4/o/DFO_1586_From_20000218_to_20000301.zip",
+      "mediaLink": "https://storage.googleapis.com/download/storage/v1/b/gfd_v1_4/o/DFO_1586_From_20000218_to_20000301.zip?generation=1688159088941606&alt=media",
+      "name": "DFO_1586_From_20000218_to_20000301.zip",
+      "bucket": "gfd_v1_4",
+      "generation": "1688159088941606",
+      "metageneration": "1",
+      "contentType": "application/octet-stream",
+      "storageClass": "STANDARD",
+      "size": "16652021",
+      "md5Hash": "Fo6Nyv8mGlLchLl+OAv/Nw==",
+      "crc32c": "Cx4vMg==",
+      "etag": "CKa0yNby6/8CEAE=",
+      "timeCreated": "2023-06-30T21:04:48.944Z",
+      "updated": "2023-06-30T21:04:48.944Z",
+      "timeStorageClassUpdated": "2023-06-30T21:04:48.944Z",
+      "customTime": "2023-06-30T21:00:29.329Z",
+      "timeFinalized": "2023-06-30T21:04:48.944Z",
+      "metadata": {
+        "x-goog-reserved-source-generation": "1688158829326062"
+      }
+    },
+    {
+      "kind": "storage#object",
+      "id": "gfd_v1_4/DFO_1587_From_20000217_to_20000311.zip/1688159099068680",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gfd_v1_4/o/DFO_1587_From_20000217_to_20000311.zip",
+      "mediaLink": "https://storage.googleapis.com/download/storage/v1/b/gfd_v1_4/o/DFO_1587_From_20000217_to_20000311.zip?generation=1688159099068680&alt=media",
+      "name": "DFO_1587_From_20000217_to_20000311.zip",
+      "bucket": "gfd_v1_4",
+      "generation": "1688159099068680",
+      "metageneration": "1",
+      "contentType": "application/octet-stream",
+      "storageClass": "STANDARD",
+      "size": "8533308",
+      "md5Hash": "tY8e5Ajrq7J29qH4GdXNKg==",
+      "crc32c": "iwwhdw==",
+      "etag": "CIjCstvy6/8CEAE=",
+      "timeCreated": "2023-06-30T21:04:59.072Z",
+      "updated": "2023-06-30T21:04:59.072Z",
+      "timeStorageClassUpdated": "2023-06-30T21:04:59.072Z",
+      "customTime": "2023-06-30T21:00:28.934Z",
+      "timeFinalized": "2023-06-30T21:04:59.072Z",
+      "metadata": {
+        "x-goog-reserved-source-generation": "1688158828933137"
+      }
+    },
+    {
+      "kind": "storage#object",
+      "id": "gfd_v1_4/DFO_1595_From_20000405_to_20000425.zip/1688159092568234",
+      "selfLink": "https://www.googleapis.com/storage/v1/b/gfd_v1_4/o/DFO_1595_From_20000405_to_20000425.zip",
+      "mediaLink": "https://storage.googleapis.com/download/storage/v1/b/gfd_v1_4/o/DFO_1595_From_20000405_to_20000425.zip?generation=1688159092568234&alt=media",
+      "name": "DFO_1595_From_20000405_to_20000425.zip",
+      "bucket": "gfd_v1_4",
+      "generation": "1688159092568234",
+      "metageneration": "1",
+      "contentType": "application/octet-stream",
+      "storageClass": "STANDARD",
+      "size": "12872110",
+      "md5Hash": "0dRgBaUc97XwKuWmwFNuIw==",
+      "crc32c": "gmbkqw==",
+      "etag": "CKrhpdjy6/8CEAE=",
+      "timeCreated": "2023-06-30T21:04:52.572Z",
+      "updated": "2023-06-30T21:04:52.572Z",
+      "timeStorageClassUpdated": "2023-06-30T21:04:52.572Z",
+      "customTime": "2023-06-30T21:00:29.672Z",
+      "timeFinalized": "2023-06-30T21:04:52.572Z",
+      "metadata": {
+        "x-goog-reserved-source-generation": "1688158829668958"
+      }
+    }
+  ]
+}

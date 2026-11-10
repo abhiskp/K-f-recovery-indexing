@@ -1,0 +1,34 @@
+{
+  "gfd": {
+    "catalog_events": 913,
+    "qc_events": 913,
+    "events_began_2018": 32,
+    "events_overlapping_2018_july_september": 12,
+    "kerala_bbox_candidates": 0,
+    "kerala_monsoon_overlap_candidates": 0,
+    "search_bbox_lonlat": [
+      74.8,
+      8.0,
+      77.5,
+      12.8
+    ],
+    "interpretation": "No matching 2018 GFD event in the published 913-event catalog; no Kerala raster selected."
+  },
+  "bhuvan": {
+    "kerala_2018_wms_layers": 16,
+    "viewer_bbox_intersects_pilot": 16,
+    "single_date_label_id_mismatches": [
+      "kl_2018_10_08"
+    ],
+    "hour_label_id_mismatches": [
+      "kl_2018_21_07_18"
+    ],
+    "radarsat_21aug06_wms_getmap_status": "ServiceException java.lang.NullPointerException for both GeoTIFF and PNG"
+  },
+  "district_boundaries": {
+    "raw_features": 845,
+    "selected_district_polygons": 14,
+    "temporal_status": "OSM snapshot includes 2021 edits; not verified as 2018 boundaries"
+  },
+  "pilot_wms_tiffs": 3
+}

@@ -1,0 +1,11 @@
+{
+  "months": 8,
+  "sentinel2_surface_reflectance_scenes_total": 0,
+  "sentinel2_toa_scenes_2018_july": 6,
+  "sentinel2_toa_scenes_2018_august": 6,
+  "landsat8_scenes_2018_july": 0,
+  "landsat8_august_2018_clear_any_fraction": 0.0019282155186739498,
+  "viirs_mean_cloud_free_observations_2018_july": 0.1125846655736187,
+  "viirs_mean_cloud_free_observations_2018_august": 0.3533878873963681,
+  "interpretation": "Availability/QA only; S2 TOA QA60 excludes opaque cloud/cirrus but not shadows, and low VIIRS cf_cvg precludes direct economic inference."
+}

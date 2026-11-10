@@ -1,0 +1,27 @@
+{
+  "source_qa_csv_rows": 6,
+  "qa_csv_exactly_matches_console_transcription": true,
+  "raster_width": 921,
+  "raster_height": 1111,
+  "raster_band_count": 45,
+  "crs": "EPSG:32643",
+  "pixel_size_m": 30,
+  "raster_has_explicit_nodata": false,
+  "raster_band_masks_all_valid_even_where_float_nan": true,
+  "pilot_aoi_pixel_centers": 1011610,
+  "pilot_aoi_pixel_area_km2_approx": 910.449,
+  "water_history_finite_pixels": 369590,
+  "water_history_finite_fraction": 0.36534830616541947,
+  "water_history_known_pixels": 369567,
+  "water_history_known_fraction": 0.36532557013078165,
+  "low_slope_pixels": 794224,
+  "low_slope_fraction": 0.7851088858354505,
+  "pre_event_overlap_pixels": {
+    "aug09_early": 1009083,
+    "aug09_late": 1009083,
+    "aug21_early": 1009096,
+    "aug21_late": 1009096
+  },
+  "independent_flood_label_comparison": "not available",
+  "candidate_area_interpretation": "Classified pixel counts only, not validated inundated hectares."
+}

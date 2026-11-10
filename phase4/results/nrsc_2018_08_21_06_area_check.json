@@ -1,0 +1,13 @@
+{
+  "source": "NRSC/NDEM Kerala flood report 21 August 2018 06Hr, Table 2",
+  "sensor": "Radarsat-2 SAR",
+  "district_rows": 5,
+  "sum_of_printed_district_values_ha": 36657,
+  "printed_total_ha": 36658,
+  "printed_total_minus_row_sum_ha": 1,
+  "partially_covered_districts": [
+    "Alappuzha",
+    "Ernakulam"
+  ],
+  "interpretation": "Operational partial-coverage summary, not statewide flood area or independent pixel labels."
+}

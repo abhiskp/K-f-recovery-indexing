@@ -1,0 +1,38 @@
+{
+  "observed_on": "2026-11-07",
+  "cloud_project_displayed": "bold-catfish-432815-t3",
+  "pilot_bbox_lonlat": [76.35, 9.45, 76.60, 9.75],
+  "data_source": "COPERNICUS/S1_GRD",
+  "selected_acquisitions": 6,
+  "independent_dry_check": "unverified",
+  "independent_flood_labels": "unavailable",
+  "tasks": [
+    {
+      "description": "phase4_s1_2018_pilot_selected_acquisition_qa",
+      "task_id": "3RLMJCJNATOXPRLQ4MPHD3KI",
+      "status": "Completed",
+      "runtime_seconds_displayed": 2,
+      "source_script": "gee_candidate_masks_INITIAL_FAILED.js",
+      "local_file_status": "downloaded to data/raw on 2026-11-08"
+    },
+    {
+      "description": "phase4_s1_2018_pilot_exploratory_candidate_bands",
+      "task_id": "EXUF6T6FBLQX23OGF4E2USUJ",
+      "status": "Failed",
+      "runtime_seconds_displayed": 1,
+      "error": "Exported bands must have compatible data types; found inconsistent types: Float64 and Float32. (Error code: 3)",
+      "source_script": "gee_candidate_masks_INITIAL_FAILED.js"
+    },
+    {
+      "description": "phase4_s1_2018_pilot_exploratory_candidate_bands",
+      "task_id": "XZNENJ6GNT6VN5W7X6F2FKMB",
+      "status": "Completed",
+      "runtime_displayed": "2m",
+      "batch_compute_eecu_seconds_displayed": 83.6094,
+      "correction": "Cast all output bands to Float32 before GeoTIFF export; suppress duplicate QA table export",
+      "source_script": "gee_candidate_masks_EXECUTED.js",
+      "local_file_status": "downloaded to data/raw on 2026-11-08"
+    }
+  ],
+  "interpretation": "Exploratory backscatter and candidate masks only; neither task validates flood extent."
+}

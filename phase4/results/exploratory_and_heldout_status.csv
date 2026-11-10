@@ -1,0 +1,18 @@
+analysis,status,numerical_result,reason
+Sentinel-1 pilot scene query,executed,134 IW/VV granules 2016-06-01 through 2018-10-14 UTC,Full Earth Engine CSV export completed and copied locally
+2018 pilot acquisition review,executed,51 granules form 27 acquisitions; 24 split granule pairs; 3 single granules,Dry baseline status remains unverified
+Selected SAR acquisition QA,executed,6 S1A descending orbit-165 acquisitions; 2 adjacent granules each; mosaic valid fraction 0.998946-0.998967,Original six-row Earth Engine CSV local and exactly matches console transcription
+Exploratory SAR candidate band export,executed,45-band 30m EPSG:32643 GeoTIFF local after Float32 correction,Unvalidated backscatter change and candidate masks; no independent flood labels
+SAR candidate technical QA,executed,JRC history finite for 36.53% of pilot; strict support 23.57%; 3dB candidate pixels 60958 Aug9 and 128003 Aug21,Candidate-mask zeros include unsupported pixels and are not verified negatives
+GFD 2018 Kerala event screen,executed,0 of 32 events beginning 2018 intersect broad Kerala bbox,Full 913-object and QC catalog crosschecked
+Bhuvan Kerala 2018 inventory,executed,16 WMS layers; 1 date and 1 hour label/ID mismatch,Viewer layer list only; zoom boxes are not observation footprints
+Bhuvan pilot GetMap technical QA,executed,3 styled 512x512 RGBA GeoTIFFs with EPSG:4326 and requested bbox,No raw pixel class or valid-footprint metadata
+Bhuvan 21 August 06Hr Radarsat WMS access,attempted,ServiceException java.lang.NullPointerException for GeoTIFF and PNG,Viewer-listed layer is not accessible as a usable image
+Optical and VIIRS pilot availability,executed,8 month observations; 0 S2 SR scenes; 2018-08 Landsat clear-any fraction 0.001928; VIIRS cf_cvg 0.353,QA availability only; no ecological or economic recovery inference
+NRSC 21 August 06Hr report table check,executed,5 rows sum 36657 ha versus printed total 36658 ha; 2 districts partly covered,Operational partial-coverage report statistic; not statewide exposure or pixel truth
+Independent mask validation,not estimable,NA,Independent geospatial labels and footprint absent
+Flood-exposed rice area,not estimable,NA,Validated exposure and 2018 crop mask absent
+Observed agricultural recovery duration,not estimable,NA,No credible exposure join or sufficiently long outcome trajectory
+Flood-associated recovery departure,not estimable,NA,No exposed-versus-less-exposed panel with controls
+Held-out later-event evaluation,not estimable,NA,No trained/validated exposure outcome model or independent later-event labels
+Recovery-adjusted ranking,not run,NA,Scientific success gate unmet

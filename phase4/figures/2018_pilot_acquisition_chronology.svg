@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="525" viewBox="0 0 1120 525" role="img" aria-label="2018 Kerala pilot Sentinel-1 acquisition chronology">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#172b3a}.title{font-size:22px;font-weight:bold}.subtitle{font-size:13px}.lane{font-size:14px;font-weight:bold}.tick{font-size:13px}.label{font-size:12px}.note{font-size:12px;fill:#3a5260}.grid{stroke:#d9e2e8;stroke-width:1}.axis{stroke:#6b7b87;stroke-width:1.2}</style>
+<text x="35.0" y="42" text-anchor="start" class="title">Sentinel-1 acquisitions and dated flood products, Kerala pilot</text>
+<text x="35.0" y="65" text-anchor="start" class="subtitle">Pilot: 76.35–76.60°E, 9.45–9.75°N · acquisition dates in IST</text>
+<line x1="175.0" y1="102" x2="175.0" y2="363" class="grid"/>
+<text x="175.0" y="92" text-anchor="middle" class="tick">June</text>
+<line x1="382.0" y1="102" x2="382.0" y2="363" class="grid"/>
+<text x="382.0" y="92" text-anchor="middle" class="tick">July</text>
+<line x1="596.0" y1="102" x2="596.0" y2="363" class="grid"/>
+<text x="596.0" y="92" text-anchor="middle" class="tick">August</text>
+<line x1="809.9" y1="102" x2="809.9" y2="363" class="grid"/>
+<text x="809.9" y="92" text-anchor="middle" class="tick">September</text>
+<line x1="175" y1="365" x2="1010" y2="365" class="axis"/>
+<text x="35.0" y="151" text-anchor="start" class="lane">S1A descending</text>
+<text x="35.0" y="169" text-anchor="start" class="note">orbit 165</text>
+<text x="35.0" y="239" text-anchor="start" class="lane">Other S1</text>
+<text x="35.0" y="257" text-anchor="start" class="note">geometry differs</text>
+<text x="35.0" y="327" text-anchor="start" class="lane">NRSC dated</text>
+<text x="35.0" y="345" text-anchor="start" class="note">products</text>
+<circle cx="237.1" cy="160" r="8" fill="#154e75" stroke="white" stroke-width="1.5"/>
+<text x="237.1" y="133" text-anchor="middle" class="label">10 Jun</text>
+<circle cx="319.9" cy="160" r="8" fill="#154e75" stroke="white" stroke-width="1.5"/>
+<text x="319.9" y="133" text-anchor="middle" class="label">22 Jun</text>
+<circle cx="402.7" cy="160" r="8" fill="#154e75" stroke="white" stroke-width="1.5"/>
+<text x="402.7" y="133" text-anchor="middle" class="label">4 Jul</text>
+<circle cx="485.5" cy="160" r="8" fill="#ba5a24" stroke="white" stroke-width="1.5"/>
+<text x="485.5" y="133" text-anchor="middle" class="label">16 Jul</text>
+<circle cx="568.3" cy="160" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="651.2" cy="160" r="8" fill="#ba5a24" stroke="white" stroke-width="1.5"/>
+<text x="651.2" y="133" text-anchor="middle" class="label">9 Aug</text>
+<circle cx="734.0" cy="248" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="734.0" cy="160" r="8" fill="#ba5a24" stroke="white" stroke-width="1.5"/>
+<text x="734.0" y="133" text-anchor="middle" class="label">21 Aug</text>
+<circle cx="775.4" cy="248" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="775.4" cy="248" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="816.8" cy="160" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="899.6" cy="160" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<circle cx="982.4" cy="160" r="5" fill="#9aaab3" stroke="white" stroke-width="1.5"/>
+<polygon points="485.5,308 492.5,316 485.5,324 478.5,316" fill="#742c63"/>
+<text x="485.5" y="346" text-anchor="middle" class="label">16 Jul</text>
+<polygon points="651.2,308 658.2,316 651.2,324 644.2,316" fill="#742c63"/>
+<text x="651.2" y="346" text-anchor="middle" class="label">9 Aug</text>
+<polygon points="734.0,308 741.0,316 734.0,324 727.0,316" fill="#742c63"/>
+<text x="734.0" y="346" text-anchor="middle" class="label">21 Aug</text>
+<text x="35.0" y="402" text-anchor="start" class="note">Circles = one acquisition (often two adjacent granules); filled blue = reference candidate, orange = dated event/check.</text>
+<text x="35.0" y="423" text-anchor="start" class="note">Diamonds = dated NRSC products. The 16 July product documents July flooding; June/4 July dry status is unverified.</text>
+<text x="35.0" y="444" text-anchor="start" class="note">9 and 21 August are separate observations. Matching orbit does not prove flood causation or independent label agreement.</text>
+<text x="35.0" y="480" text-anchor="start" class="note">Sources: Earth Engine COPERNICUS/S1_GRD inventory; NRSC/NDEM dated products (see phase4/sources.md).</text>
+</svg>

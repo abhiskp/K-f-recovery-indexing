@@ -1,0 +1,17 @@
+{
+  "run_date_local": "2026-11-06",
+  "service": "Google Earth Engine Code Editor",
+  "dataset": "COPERNICUS/S1_GRD",
+  "aoi_lonlat_bbox": [76.35, 9.45, 76.60, 9.75],
+  "filter_start_inclusive_utc": "2016-06-01",
+  "filter_end_exclusive_utc": "2018-10-15",
+  "filters": ["instrumentMode=IW", "polarization includes VV", "intersects pilot AOI"],
+  "scene_count_computed": 134,
+  "export_name": "phase4_kerala_2016_2018_s1_pilot_full_scene_inventory",
+  "export_task_id": "LMCGG75TSBJP6WZWRKV3MTZ2",
+  "export_phase_seen_in_task_manager": "Completed",
+  "export_runtime_seconds_seen": 22,
+  "execution_source_url": "https://code.earthengine.google.com/29968f090b29abe9c993f6cf84dc0223",
+  "csv_local_status": "pending researcher download from Drive",
+  "interpretation": "Scene inventory only. No selected pre-event baseline, flood mask or validated exposure."
+}

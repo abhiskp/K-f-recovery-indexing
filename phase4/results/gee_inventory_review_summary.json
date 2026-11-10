@@ -1,0 +1,16 @@
+{
+  "all_unique_scenes": 134,
+  "2018_scenes": 51,
+  "2018_distinct_acquisitions": 27,
+  "2018_two_granule_acquisitions": 24,
+  "2018_one_granule_acquisitions": 3,
+  "2018_before_16_july_local": 32,
+  "2018_on_or_after_16_july_local": 19,
+  "2018_pass_orbit_counts": {
+    "ASCENDING|173.0": 2,
+    "DESCENDING|165.0": 49
+  },
+  "verified_dry_acquisitions": 0,
+  "independently_validated_flood_acquisitions": 0,
+  "status_note": "Granule grouping and exploratory date selection do not establish a dry baseline or independent flood truth."
+}

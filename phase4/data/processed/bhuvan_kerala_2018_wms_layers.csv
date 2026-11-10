@@ -1,0 +1,17 @@
+layer_id,viewer_date_label,wms_endpoint,viewer_zoom_bbox_min_lon,viewer_zoom_bbox_min_lat,viewer_zoom_bbox_max_lon,viewer_zoom_bbox_max_lat,viewer_bbox_intersects_pilot,single_date_label_id_mismatch,hour_label_id_mismatch,per_pixel_valid_footprint_available,validation_role
+kl_2018_10_08,09/08/2018,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.5269,8.79492,77.1512,11.0584,1,1,,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_11_08_18,11/08/2018-18Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,74.8607,8.23351,77.4352,12.8595,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_11-21_08,11-21/08/2018,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,76.124,9.0804,76.8587,10.2843,1,,,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_14_08_06,14/08/2018-06Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.5975,8.23353,77.4352,11.1595,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_14_08_18,14/08/2018-18Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.832,8.23351,77.2887,11.5583,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_16_07,16/07/2018,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.7695,8.36873,77.0554,11.2262,1,0,,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_17_08_15,17/08/2018-15Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,76.0579,8.78154,77.0824,10.6559,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_18_08_04,18/08/2018-04Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,76.1883,9.30911,76.615,10.2387,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_18_08_19,18/08/2018-19Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,76.1281,9.08187,76.8576,10.2828,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_21_07_18,21/07/2018-06Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.6313,8.82808,77.1973,10.933,1,0,1,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_21_08_06,21/08/2018-06Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.8721,8.26423,77.4351,12.8593,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_21_08_18,21/08/2018-18Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,74.8613,7.21211,78.1593,12.8591,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_21_08_20,21/08/2018-20Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,76.2085,8.80133,76.716,10.065,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_24_08_06,24/08/2018-06Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,74.8608,8.23354,77.4351,12.7454,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_27_08_06,27/08/2018-06Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.3062,8.2334,77.4352,11.2515,1,0,0,no,styled WMS reference only; sensor dependence must be checked
+kl_2018_28_08_16,28/08/2018-16Hr,https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms,75.5948,8.83348,77.1018,11.1755,1,0,0,no,styled WMS reference only; sensor dependence must be checked

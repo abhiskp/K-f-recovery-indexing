@@ -1,0 +1,11 @@
+event_date,reference_acquisitions,reference_dry_status,water_treatment,vv_drop_threshold_db,event_vv_ceiling_db,analysis_support_pixels,analysis_support_fraction_of_pilot,candidate_pixels,candidate_fraction_of_support,candidate_pixel_area_km2_approx,interpretation
+2018-08-09,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,2,-15,238460,0.23572325303229505,75225,0.3154617126562107,67.7025,"unvalidated SAR candidate, not flood extent"
+2018-08-09,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,3,-15,238460,0.23572325303229505,60958,0.255631971819173,54.8622,"unvalidated SAR candidate, not flood extent"
+2018-08-09,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,4,-15,238460,0.23572325303229505,49509,0.20761972657888114,44.558099999999996,"unvalidated SAR candidate, not flood extent"
+2018-08-09,2018-06-22|2018-07-04,unverified,exclude_permanent_with_3_of_4_year_history,3,-15,238460,0.23572325303229505,55326,0.23201375492745113,49.7934,"unvalidated SAR candidate, not flood extent"
+2018-08-09,2018-06-10|2018-06-22,unverified,no_permanent_water_exclusion,3,-15,792365,0.7832712211227647,100597,0.1269579045010822,90.5373,"unvalidated SAR candidate, not flood extent"
+2018-08-21,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,2,-15,238477,0.23574005792746217,146205,0.613077990749632,131.5845,"unvalidated SAR candidate, not flood extent"
+2018-08-21,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,3,-15,238477,0.23574005792746217,128003,0.5367519718882744,115.2027,"unvalidated SAR candidate, not flood extent"
+2018-08-21,2018-06-10|2018-06-22,unverified,exclude_permanent_with_3_of_4_year_history,4,-15,238477,0.23574005792746217,110722,0.46428796068383954,99.6498,"unvalidated SAR candidate, not flood extent"
+2018-08-21,2018-06-22|2018-07-04,unverified,exclude_permanent_with_3_of_4_year_history,3,-15,238477,0.23574005792746217,120241,0.5042037596917103,108.2169,"unvalidated SAR candidate, not flood extent"
+2018-08-21,2018-06-10|2018-06-22,unverified,no_permanent_water_exclusion,3,-15,792378,0.7832840719249513,214081,0.2701753456052541,192.6729,"unvalidated SAR candidate, not flood extent"

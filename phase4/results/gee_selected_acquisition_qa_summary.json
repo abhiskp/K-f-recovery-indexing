@@ -1,0 +1,11 @@
+{
+  "acquisitions": 6,
+  "granules_per_acquisition": 2,
+  "mosaic_valid_fraction_min_approx_30m": 0.9989459731483408,
+  "mosaic_valid_fraction_max_approx_30m": 0.9989674177347406,
+  "mean_angle_min_deg_approx": 40.77392489110297,
+  "mean_angle_max_deg_approx": 40.781194239110235,
+  "mean_angle_range_deg_approx": 0.007269348007262977,
+  "source": "Console-transcribed executed Earth Engine FeatureCollection; exact exported CSV is checked separately by validate_gee_exports.py.",
+  "interpretation": "Mosaic coverage and geometry QA only; not dry-baseline or flood-label validation."
+}

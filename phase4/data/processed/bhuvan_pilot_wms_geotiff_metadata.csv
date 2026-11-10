@@ -1,0 +1,4 @@
+file,width_px,height_px,channels,epsg,bbox_min_lon,bbox_min_lat,bbox_max_lon,bbox_max_lat,sha256,bytes,data_type
+data/raw/bhuvan_2018_07_16_pilot_wms_styled.tif,512,512,4,4326,76.35,9.45,76.6,9.75,fb582335975f698ac622e25ab9337a0d4ec202d53d366130c033b6e35ad30f01,1049480,"styled WMS RGBA GeoTIFF, not raw classification or valid-footprint mask"
+data/raw/bhuvan_2018_08_09_pilot_wms_styled.tif,512,512,4,4326,76.35,9.45,76.6,9.75,69d9393148bf930c4bc601985080c673598a40737ca7c1ed9faea877a737f169,1049480,"styled WMS RGBA GeoTIFF, not raw classification or valid-footprint mask"
+data/raw/bhuvan_2018_08_21_18_pilot_wms_styled.tif,512,512,4,4326,76.35,9.45,76.6,9.75,f5b652e7ef77dc544c325db573fd21d412bced838767173022402421e7e2fed6,1049480,"styled WMS RGBA GeoTIFF, not raw classification or valid-footprint mask"
