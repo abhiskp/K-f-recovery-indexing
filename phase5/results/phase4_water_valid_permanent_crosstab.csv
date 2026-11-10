@@ -1,0 +1,17 @@
+valid_years,permanent_years,pixel_centers,fraction_of_pilot,interpretation
+0,0,0,0.0,annual seasonal/non-water classes unresolved
+1,0,2,1.977046490248218e-06,annual seasonal/non-water classes unresolved
+1,1,0,0.0,annual seasonal/non-water classes unresolved
+2,0,21,2.0758988147606292e-05,annual seasonal/non-water classes unresolved
+2,1,0,0.0,annual seasonal/non-water classes unresolved
+2,2,0,0.0,annual seasonal/non-water classes unresolved
+3,0,1365,0.001349334229594409,annual seasonal/non-water classes unresolved
+3,1,40,3.9540929804964364e-05,annual seasonal/non-water classes unresolved
+3,2,1,9.88523245124109e-07,annual seasonal/non-water classes unresolved
+3,3,1,9.88523245124109e-07,annual seasonal/non-water classes unresolved
+4,0,196853,0.19459376637241624,annual seasonal/non-water classes unresolved
+4,1,46293,0.04576170658653038,annual seasonal/non-water classes unresolved
+4,2,6251,0.006179258805270806,annual seasonal/non-water classes unresolved
+4,3,4274,0.004224948349660442,annual seasonal/non-water classes unresolved
+4,4,114489,0.11317503781101412,annual seasonal/non-water classes unresolved
+NA,NA,642020,0.6346516938345805,"source counts absent/NaN, not known non-water"

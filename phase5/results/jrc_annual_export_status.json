@@ -1,0 +1,10 @@
+{
+  "local_jrc_annual_geotiff_present": true,
+  "annual_class_spatial_map": "executed",
+  "local_minus_earth_engine_polygon_pixels": 370,
+  "difference_only_in_source_masked_or_insufficient_pixels": true,
+  "rgba_apparent_alpha_pixels_inside_pilot": 65,
+  "raw_bands_used_ignoring_false_alpha_mask": true,
+  "phase4_count_band_agreement_pixels": 369590,
+  "phase4_count_band_overlap_pixels": 369590
+}

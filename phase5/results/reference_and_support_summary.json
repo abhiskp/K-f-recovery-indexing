@@ -1,0 +1,12 @@
+{
+  "pilot_pixel_centers": 1011610,
+  "phase4_water_count_bands_finite_pixels": 369590,
+  "phase4_water_count_bands_missing_pixels": 642020,
+  "jrc_class_1_vs_2_not_recoverable_from_phase4_count_bands": true,
+  "reference_median_pair_overlap_pixels": 1011610,
+  "late_minus_early_reference_db_p05": -3.9574508666992188,
+  "late_minus_early_reference_db_median": -0.25402069091796875,
+  "late_minus_early_reference_db_p95": 2.5139853954315186,
+  "reference_pair_abs_difference_gt_3db_pixels": 127377,
+  "reference_dry_status": "unverified; no ground corroboration at scene time/location"
+}

@@ -1,0 +1,10 @@
+{
+  "source_html": "phase4/data/raw/bhuvan_flood_page_2026-11-06.html",
+  "viewer_label": "Flood Duration Map (11-21 Aug 2018) : Kerala",
+  "wms_endpoint_as_exposed": "https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map",
+  "wms_layer_as_exposed": "aggregate_flood_kerala_2018",
+  "wms_capabilities_probe_2026_11_08": "browser net::ERR_BLOCKED_BY_CLIENT; no service response obtained",
+  "underlying_class_file_status": "not obtained",
+  "valid_footprint_status": "not obtained",
+  "interpretation": "WMS viewer reference, not class raster or independent pixel label"
+}

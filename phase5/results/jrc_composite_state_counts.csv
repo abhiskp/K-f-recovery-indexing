@@ -1,0 +1,6 @@
+state_code,state_name,pixel_centers,fraction_of_pilot
+0,insufficient_data,642043,0.6346744298692184
+1,all_four_not_water,7077,0.0069957790057433205
+2,seasonal_observed,242722,0.239936339103014
+3,permanent_at_least_three_years,118764,0.11740097468391969
+4,mixed_other_known,1004,0.0009924773381046056

@@ -1,0 +1,23 @@
+{
+  "source": "Executed Earth Engine Code Editor console; gee_jrc_integer_counts.js",
+  "grid": "EPSG:32643; [30,0,648060,0,-30,1078200]",
+  "roi": "Earth Engine unweighted pixel-centre reduction of [76.35,9.45,76.60,9.75]",
+  "denominator_pixel_centers": 1011240,
+  "phase4_rasterio_pilot_denominator": 1011610,
+  "denominator_difference_pixels": 370,
+  "note": "The local four-band GeoTIFF exactly matches codes 0-3 in all years; its larger Rasterio polygon mask adds 370 cells, all code 255. Keep each denominator explicit.",
+  "annual": {
+    "2014": {"0": 507, "1": 30392, "2": 214614, "3": 123251, "255": 642476},
+    "2015": {"0": 22, "1": 44572, "2": 154525, "3": 170471, "255": 641650},
+    "2016": {"0": 35, "1": 39085, "2": 213053, "3": 117417, "255": 641650},
+    "2017": {"0": 65, "1": 36404, "2": 214642, "3": 118479, "255": 641650}
+  },
+  "composite": {"0": 641673, "1": 7077, "2": 242722, "3": 118764, "4": 1004},
+  "composite_definitions": {
+    "0": "fewer than three years with class 1, 2 or 3",
+    "1": "all four years class 1",
+    "2": "at least three valid years; seasonal water in at least one; permanent in fewer than three",
+    "3": "at least three valid years; permanent in at least three",
+    "4": "other mixed history with at least three valid years"
+  }
+}

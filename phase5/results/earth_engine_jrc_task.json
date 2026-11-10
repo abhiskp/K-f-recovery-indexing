@@ -1,0 +1,11 @@
+{
+  "description": "phase5_jrc_waterclass_2014_2017_pilot",
+  "task_id": "GIHCX7SEC7VIJ4XHL6IRMAOQ",
+  "phase": "Completed",
+  "runtime_seconds_displayed": 28,
+  "started_ist_displayed": "2026-11-08 21:31:32 +0530",
+  "source_script_url": "https://code.earthengine.google.com/752ddb6dbeffb753bde616587b40f43c",
+  "destination": "researcher Google Drive",
+  "local_geotiff_status": "downloaded 9 November 2026 and locally checked on exact Phase 4 grid; see jrc_annual_export_status.json",
+  "data_interpretation": "JRC 2014-2017 annual source classes, not flood labels"
+}
