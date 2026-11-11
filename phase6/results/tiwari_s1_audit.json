@@ -1,0 +1,72 @@
+{
+  "raster_count": 11,
+  "all_rasters_binary_positive_only": true,
+  "all_rasters_zero_is_nodata": true,
+  "rainfall_point_rows": 3286,
+  "rainfall_first_date": "2010-01-01",
+  "rainfall_last_date": "2018-12-30",
+  "rainfall_sites": [
+    "Edanad",
+    "Aranmula",
+    "Chengannur",
+    "Kureepuzha",
+    "Pandanad",
+    "Ranni"
+  ],
+  "archive_contains_validation_point_labels": false,
+  "archive_contains_gee_source_code": false,
+  "archive_contains_valid_scene_footprints": false,
+  "pilot_overlap": [
+    {
+      "published_raster": "5Jan2018.tif",
+      "pilot_grid_pixels": 1023231,
+      "published_positive_pixels_on_pilot_grid": 197432,
+      "phase4_aug21_strict_qa_pixels": 238477,
+      "published_positive_and_phase4_qa_pixels": 70045,
+      "published_positive_and_phase4_candidate_pixels": 45039,
+      "candidate_fraction_among_published_positives_on_qa": 0.643001,
+      "interpretation": "same-sensor descriptive concordance; not validation; zero is unknown"
+    },
+    {
+      "published_raster": "28July2018.tif",
+      "pilot_grid_pixels": 1023231,
+      "published_positive_pixels_on_pilot_grid": 343430,
+      "phase4_aug21_strict_qa_pixels": 238477,
+      "published_positive_and_phase4_qa_pixels": 185334,
+      "published_positive_and_phase4_candidate_pixels": 97597,
+      "candidate_fraction_among_published_positives_on_qa": 0.526601,
+      "interpretation": "same-sensor descriptive concordance; not validation; zero is unknown"
+    },
+    {
+      "published_raster": "9Aug2018.tif",
+      "pilot_grid_pixels": 1023231,
+      "published_positive_pixels_on_pilot_grid": 361562,
+      "phase4_aug21_strict_qa_pixels": 238477,
+      "published_positive_and_phase4_qa_pixels": 193804,
+      "published_positive_and_phase4_candidate_pixels": 101953,
+      "candidate_fraction_among_published_positives_on_qa": 0.526062,
+      "interpretation": "same-sensor descriptive concordance; not validation; zero is unknown"
+    },
+    {
+      "published_raster": "21Aug2018.tif",
+      "pilot_grid_pixels": 1023231,
+      "published_positive_pixels_on_pilot_grid": 394423,
+      "phase4_aug21_strict_qa_pixels": 238477,
+      "published_positive_and_phase4_qa_pixels": 218573,
+      "published_positive_and_phase4_candidate_pixels": 126941,
+      "candidate_fraction_among_published_positives_on_qa": 0.580772,
+      "interpretation": "same-sensor descriptive concordance; not validation; zero is unknown"
+    },
+    {
+      "published_raster": "26sept2018.tif",
+      "pilot_grid_pixels": 1023231,
+      "published_positive_pixels_on_pilot_grid": 318626,
+      "phase4_aug21_strict_qa_pixels": 238477,
+      "published_positive_and_phase4_qa_pixels": 170735,
+      "published_positive_and_phase4_candidate_pixels": 94060,
+      "candidate_fraction_among_published_positives_on_qa": 0.550912,
+      "interpretation": "same-sensor descriptive concordance; not validation; zero is unknown"
+    }
+  ],
+  "use_as_independent_validation": false
+}

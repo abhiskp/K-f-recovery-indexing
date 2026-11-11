@@ -1,0 +1,51 @@
+{
+  "archive_members": [
+    "doc.kml",
+    "Layer0.png",
+    "Layer2.png",
+    "Layer3.png",
+    "legend0.png"
+  ],
+  "ground_overlays": [
+    {
+      "name": "Flooded Area",
+      "image": "Layer0.png",
+      "west": 75.9888721183274,
+      "south": 11.24608632504399,
+      "east": 76.92367346919033,
+      "north": 12.14038697623431
+    },
+    {
+      "name": "Func_IMG-HH-ALOS2227800220-180811-FBDR2.1GUA.tif",
+      "image": "Layer2.png",
+      "west": 75.9888721183274,
+      "south": 11.24608632504399,
+      "east": 76.92367346919033,
+      "north": 12.1403869762343
+    },
+    {
+      "name": "Func_IMG-HH-ALOS2225730220-180728-FBDR2.1GUA.tif",
+      "image": "Layer3.png",
+      "west": 75.98776914940251,
+      "south": 11.2460832064426,
+      "east": 76.92394528791337,
+      "north": 12.14038959498946
+    }
+  ],
+  "vector_geometry_counts": {
+    "Point": 0,
+    "LineString": 0,
+    "Polygon": 0,
+    "MultiGeometry": 0
+  },
+  "layer0_pixel_width": 10000,
+  "layer0_pixel_height": 9566,
+  "layer0_nontransparent_visual_pixels": 185688,
+  "layer0_transparent_visual_pixels": 95474312,
+  "layer0_alpha_values": [
+    0,
+    255
+  ],
+  "phase4_pilot_intersection": false,
+  "interpretation": "georeferenced KML GroundOverlay PNG; transparency is unknown, not surveyed non-flood"
+}

@@ -1,0 +1,6 @@
+published_raster,pilot_grid_pixels,published_positive_pixels_on_pilot_grid,phase4_aug21_strict_qa_pixels,published_positive_and_phase4_qa_pixels,published_positive_and_phase4_candidate_pixels,candidate_fraction_among_published_positives_on_qa,interpretation
+5Jan2018.tif,1023231,197432,238477,70045,45039,0.643001,same-sensor descriptive concordance; not validation; zero is unknown
+28July2018.tif,1023231,343430,238477,185334,97597,0.526601,same-sensor descriptive concordance; not validation; zero is unknown
+9Aug2018.tif,1023231,361562,238477,193804,101953,0.526062,same-sensor descriptive concordance; not validation; zero is unknown
+21Aug2018.tif,1023231,394423,238477,218573,126941,0.580772,same-sensor descriptive concordance; not validation; zero is unknown
+26sept2018.tif,1023231,318626,238477,170735,94060,0.550912,same-sensor descriptive concordance; not validation; zero is unknown

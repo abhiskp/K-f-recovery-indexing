@@ -1,0 +1,12 @@
+uei,start_date_as_published,end_date_as_published,reported_duration_days,calendar_span_inclusive_days,reported_duration_matches_calendar,state_field,districts_as_published,districts_listed_n,latitude_as_published,longitude_as_published,area_affected_as_published,human_fatality_as_published,human_displaced_as_published,source
+UEI-IMD-FL-2018-0030,18-03-2018 00:00,18-03-2018 00:00,1,1,True,Kerala,Thiruvananthapuram,1,,,,,,IMD
+UEI-IMD-FL-2018-0031,22-04-2018 00:00,22-04-2018 00:00,1,1,True,Kerala,Wayanad,1,,,,,,IMD
+UEI-IMD-FL-2018-0032,13-05-2018 00:00,14-05-2018 00:00,2,2,True,Kerala,Thiruvananthapuram,1,,,,,,IMD
+UEI-IMD-FL-2018-0033,16-05-2018 00:00,17-05-2018 00:00,2,2,True,Kerala,Thiruvananthapuram,1,,,,,,IMD
+UEI-IMD-FL-2018-0034,21-05-2018 00:00,21-05-2018 00:00,1,1,True,Kerala,Thiruvananthapuram,1,,,,1,,IMD
+UEI-IMD-FL-2018-0035,29-05-2018 00:00,31-07-2018 00:00,34,64,False,Kerala,"Alappuzha, Ernakulam, Idukki, Kannur, Kasaragod, Kollam, Kottayam, Kozhikode, Malappuram, Palakkad, Pathanamthitta, Thrissur, Thiruvananthapuram, Wayanad",14,,,,138,,IMD
+UEI-IMD-FL-2018-0036,08-01-2018 00:00,30-08-2018 00:00,30,235,False,Kerala,"Alappuzha, Ernakulam, Idukki, Kannur, Kasaragod, Kollam, Kottayam, Kozhikode, Malappuram, Palakkad, Pathanamthitta, Thrissur, Thiruvananthapuram, Wayanad",14,,,,339,,IMD
+UEI-IMD-FL-2018-0037,21-10-2018 00:00,21-10-2018 00:00,1,1,True,Kerala,Malappuram,1,,,,,,IMD
+UEI-IMD-FL-2018-0038,16-11-2018 00:00,16-11-2018 00:00,1,1,True,Kerala,"Alappuzha, Idukki",2,,,,,,IMD
+UEI-IMD-FL-2018-0039,17-11-2018 00:00,17-11-2018 00:00,1,1,True,Kerala,Alappuzha,1,,,,,,IMD
+UEI-IMD-FL-2018-0040,28-12-2018 00:00,28-12-2018 00:00,1,1,True,Kerala,Wayanad,1,,,,,,IMD

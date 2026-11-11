@@ -1,0 +1,13 @@
+{
+  "inventory_rows_total": 6876,
+  "kerala_mentioned_2018_event_rows": 11,
+  "kerala_2018_rows_missing_latitude": 11,
+  "kerala_2018_rows_missing_area_affected": 11,
+  "kerala_2018_rows_missing_human_displaced": 11,
+  "kerala_2018_rows_missing_human_fatality": 8,
+  "kerala_2018_uei_0036_start_date": "08-01-2018 00:00",
+  "kerala_2018_uei_0036_reported_duration_days": 30,
+  "historical_district_rows_matched_to_phase3": 14,
+  "historical_tables_are_event_agnostic": true,
+  "zenodo_license": "CC-BY-4.0"
+}
