@@ -1,0 +1,11 @@
+UNSENT DRAFT — KSDMA/KSEOC
+Subject: Research-use de-identified 2018 flood-depth points with observation dates and sampling metadata
+
+Dear data custodian,
+
+KSDMA describes approximately 13,000 flood-depth observations collected after the 2018 Kerala floods. For independent evaluation of satellite flood classifications, could you provide permitted de-identified point coordinates, depth and unit, observed date/time versus submission time, position precision, method, duplicates and QA flags, and the geographic and temporal sampling frame? Please say whether dry/nonflood comparison locations were sampled and what source observations were used to verify the depths.
+
+Please provide the research-use licence, restrictions on mapping or publication, and the custodian or agreement procedure. Positive-only points would support limited positive checks, not specificity or statewide flood extent. We do not request personal identifiers, credentials or private keys.
+
+Sincerely,
+[Researcher name and institution]

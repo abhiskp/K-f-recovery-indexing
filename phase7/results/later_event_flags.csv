@@ -1,0 +1,8 @@
+agricultural_year,calendar_event_year,event_flag,evidence_note,source_url
+2018-19,2018,documented_flood_or_landslide,2018 Kerala notification,https://keralaagriculture.gov.in/wp-content/uploads/2021/07/GO-Flood-Notification-2018-3102018_1-additional-VIllage-1.pdf
+2019-20,2019,documented_flood_or_landslide,23 August 2019 notified 1038 villages,https://sdma.kerala.gov.in/wp-content/uploads/2019/08/GO-Flood-Landslide-Notification-2019-1.pdf
+2020-21,2020,documented_flood_map_exists,KSDMA 2020 flood inundation cartographic PDF; no district-season linkage,https://sdma.kerala.gov.in/wp-content/uploads/2020/11/Flood-Inundation-Map_2020.pdf
+2021-22,2021,documented_flood_or_landslide,KSDMA October 2021 event report,https://sdma.kerala.gov.in/wp-content/uploads/2022/05/Event-report_October-2021.pdf
+2022-23,2022,not_systematically_classified,KSDMA archives exist; no district-season exposure classification in this audit,https://sdma.kerala.gov.in/archives/
+2023-24,2023,not_systematically_classified,absence of an identified event is not evidence of no flood,https://sdma.kerala.gov.in/archives/
+2024-25,2024,documented_other_hazard_flood_unknown,KSDMA notified 2024 Meppadi landslide; flood incidence not systematically classified,https://sdma.kerala.gov.in/disaster-notifications/

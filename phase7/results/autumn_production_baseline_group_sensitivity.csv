@@ -1,0 +1,5 @@
+baseline_method,n_all_defined,n_some_defined,all_mean_percent_change,some_mean_percent_change,difference_all_minus_some_pp,all_sum_absolute_deviation_tonnes,some_sum_absolute_deviation_tonnes,interpretation
+pre4_mean,6,6,-65.391080,-15.239570,-50.151510,-42604.750,-13997.500,descriptive_not_causal
+pre4_median,6,6,-63.856802,-13.047071,-50.809731,-42090.500,-12654.000,descriptive_not_causal
+pre3_mean,6,6,-64.734395,-18.040367,-46.694028,-44130.000,-15628.333,descriptive_not_causal
+pre4_linear_extrapolation,6,6,-59.775597,-2.039480,-57.736118,-36897.000,-13053.000,descriptive_not_causal

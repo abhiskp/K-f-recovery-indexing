@@ -1,0 +1,26 @@
+{
+  "panel_rows": 462,
+  "panel_years": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "phase6_join_rows_are_unique_long_format": 378,
+  "independently_reproduced_2018_19_autumn_production": {
+    "all_mean_percent": -65.39108,
+    "some_mean_percent": -15.23957,
+    "all_minus_some_pp": -50.15151,
+    "n_defined_all": 6,
+    "n_defined_some": 6
+  },
+  "pre_event_2017_18_placebo_all_minus_some_pp": 19.25802,
+  "interpretation": "descriptive administrative-category contrast; not flood-attributable recovery"
+}

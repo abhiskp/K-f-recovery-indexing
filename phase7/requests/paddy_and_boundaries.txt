@@ -1,0 +1,13 @@
+UNSENT DRAFT — Kerala DES, Agriculture Department, KSLUB/KSREC and KSDI
+Subject: 2018 season-specific cultivated paddy geography and 2018-valid boundaries for research
+
+Dear data custodian,
+
+We need the actual cultivated rice/paddy geography for the 2018–19 autumn, winter and summer seasons, ideally dated field polygons or a validated classified raster. Please specify planting/harvest observation dates, wet versus dry paddy, planted versus harvested area, surveyed extent, cloud/unknown classes, classification/field QA, CRS, spatial resolution, positional uncertainty and data version. An undated wetland or potential-paddy map would not identify 2018 cultivated fields.
+
+Please also supply district/block/village polygons effective in 2018 and stable unit IDs or a crosswalk to DES agricultural-statistics district/block names. We need effective dates and boundary-change notes, topology QA, CRS and licence.
+
+Could you confirm what academic uses, publication of aggregate exposure fractions, and redistribution of the GIS files are permitted? If the requested layers do not exist, please identify the closest dated observed source and its coverage. We do not request farmer identifiers, credentials or private keys.
+
+Sincerely,
+[Researcher name and institution]

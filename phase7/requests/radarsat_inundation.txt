@@ -1,0 +1,15 @@
+UNSENT DRAFT — NRSC/NDEM and KSDMA
+Subject: Research access to 21 August 2018 06Hr RADARSAT-2 Kerala inundation GIS layer and observed footprint
+
+Dear data custodian,
+
+We are auditing whether 2018 observed inundation can be linked to subsequent district or local rice outcomes. The NRSC report for 21 August 2018 06Hr says its RADARSAT-2 inundation layer was sent to KSDMA. Could you provide the underlying GIS-ready raster/vector, the acquisition footprint and valid classified support (including observed nonflood, permanent water, excluded and unobserved classes), and the class key? We also need scene ID, UTC acquisition time, sensor mode/polarisation, CRS, pixel size, processing method/version, source geometry, geolocation uncertainty, QA, and coverage or omission limits.
+
+Please state whether the classified product used Sentinel-1 as an input or validation source. We seek permission for academic analysis, publication of derived aggregate results, and any permitted redistribution of source or derived GIS files. If access requires an agreement, please provide the custodian and procedure. A styled WMS image or PDF alone cannot supply the class and valid-support denominator we need.
+
+If available, please separately provide the GIS-ready 11–21 August duration product (Map ID 2018/14), with its four per-date footprints, duration-class legend and reliability metadata. We would use it as event-hazard severity, not post-flood recovery.
+
+No account credentials or private keys are needed. We will cite your product and follow the stated licence.
+
+Sincerely,
+[Researcher name and institution]
